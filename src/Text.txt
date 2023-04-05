@@ -1,0 +1,11 @@
+Ram bhujel 
+
+Lab 12 FileAway
+
+The program should then open and read the file line by line.
+The program should then print a summary report of the file to the console. 
+The summary report should contain the following:
+The name of the file the user chose to process
+Number of lines in the file.
+Number of words in the file.
+Number of characters in the file.
